@@ -64,6 +64,9 @@ Key dependencies include:
 
 - `streamlit`
 - `pandas`
+
+Here is the deployed link:
+https://credit-card-fraud-detection-wgnrihytfbcoradgrgfldn.streamlit.app/
 - `numpy`
 - `joblib`
 - `lightgbm`
